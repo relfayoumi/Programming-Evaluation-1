@@ -48,3 +48,4 @@ print("These are you're monthly expenses:\n",
       clothing,"%\t", totalBudget*(clothing/100), "$ for clothing,\n", 
       entertainment,"%\t", totalBudget*(entertainment/100), "$ for entertainment,\n", 
       rent,"%\t", totalBudget*(rent/100), "$ for rent.\n\n")
+
